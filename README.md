@@ -1,7 +1,7 @@
  [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/Kriteshjaiswal)
     <h1 align="center">Hi 👋, I'm Kritesh Jaiswal</h1>
     <h3 align="center">A passionate MERN Stack developer from India</h3>
-    <img align="right" alt="Coding" width="400" src="http://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" />
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" />
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriteshjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="kriteshjaiswal" /> </p>
   🌱 I’m currently learning **Tailwind.css, Express.js, Rest API**
         
